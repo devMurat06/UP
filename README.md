@@ -142,5 +142,3 @@ open UP.xcodeproj
 
 **Murat NAR**
 *CS50 2026*
-
-N♥️
